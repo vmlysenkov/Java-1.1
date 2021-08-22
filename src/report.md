@@ -7,7 +7,7 @@
 На тестирование затрачено: 3 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Номера кредитных карт платежных систем AMEX, Diners Club, EnRout, Voyager не проходят валидацию](https://github.com/vmlysenkov/1.1-Java/issues/1#issue-973342316)
+* [Номера кредитных карт платежных систем AMEX, Diners Club, EnRout, Voyager не проходят валидацию](https://github.com/vmlysenkov/Java-1.1/issues/1#issue-976341542)
 
 ## Описание процесса тестирования
 
